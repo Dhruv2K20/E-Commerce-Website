@@ -1,8 +1,7 @@
 # E-Commerce Website
-# npm start 
-To run the app in the development mode.
-
-Open http://localhost:3000 to view it in the browser.
+## npm start 
+To run the app in the development mode.<br />
+Open http://localhost:3000 to view it in the browser.<br />
 The page will reload whenever edits are made and saved.
 
 
